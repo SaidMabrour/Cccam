@@ -122,3 +122,75 @@ group                         = 1
 emmcache                      = 1,1,2,0
 disablecrccws                 = 1
 audisabled                    = 1
+
+[reader]
+label                         = 37.187.161.201_0880
+enable                        = 1
+protocol                      = cccam
+device                        = 37.187.161.201,1003
+user                          = 0880
+password                      = 0000
+cccversion                    = 2.1.2
+group                         = 1
+ccckeepalive                  = 1
+disablecrccws                 = 1
+
+[reader]
+label                         =37.187.161.201_0801
+enable                        =1
+protocol                      =cccam
+device                        =37.187.161.201,1003
+user                          =0801
+password                      =0009
+cccversion                    =2.1.2
+group                         =1
+ccckeepalive                  =1
+disablecrccws                 =1
+
+[reader]
+label                         =178.238.224.107_haha
+enable                        =1
+protocol                      =cccam
+device                        =178.238.224.107,14000
+user                          =haha
+password                      =bbaa
+cccversion                    =2.1.2
+group                         =1
+ccckeepalive                  =1
+disablecrccws                 =1
+
+[reader]
+label                         =178.238.224.107_koora
+enable                        =1
+protocol                      =cccam
+device                        =178.238.224.107,14000
+user=koora
+password                      =koora
+cccversion                    =2.1.2
+group                         =1
+ccckeepalive                  =1
+disablecrccws                 =1
+
+[reader]
+label                         =37.187.161.201_0914
+enable                        =1
+protocol                      =cccam
+device                        =37.187.161.201,1003
+user                          =0914
+password                      =0002
+cccversion                    =2.1.2
+group                         =1
+ccckeepalive                  =1
+disablecrccws                 =1
+
+[reader]
+label                         =37.187.161.201_0504
+enable                        =1
+protocol                      =cccam
+device                        =37.187.161.201,1003
+user                          =0504
+password                      =0004
+cccversion                    =2.1.2
+group                         =1
+ccckeepalive                  =1
+disablecrccws                 =1
